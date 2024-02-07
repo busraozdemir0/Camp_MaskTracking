@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkSpace", "WorkSpace\WorkSpace.csproj", "{86FD88E8-CC7C-4330-9374-88E01E555CDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{B08173CC-B602-424C-9E08-B1044C2F1812}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{474B846F-76B3-412B-B3EF-D57F30443A68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86FD88E8-CC7C-4330-9374-88E01E555CDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86FD88E8-CC7C-4330-9374-88E01E555CDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86FD88E8-CC7C-4330-9374-88E01E555CDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86FD88E8-CC7C-4330-9374-88E01E555CDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B08173CC-B602-424C-9E08-B1044C2F1812}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B08173CC-B602-424C-9E08-B1044C2F1812}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B08173CC-B602-424C-9E08-B1044C2F1812}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B08173CC-B602-424C-9E08-B1044C2F1812}.Release|Any CPU.Build.0 = Release|Any CPU
+		{474B846F-76B3-412B-B3EF-D57F30443A68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{474B846F-76B3-412B-B3EF-D57F30443A68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{474B846F-76B3-412B-B3EF-D57F30443A68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{474B846F-76B3-412B-B3EF-D57F30443A68}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8E8986A-7E99-40ED-A2FF-BC6190640673}
+	EndGlobalSection
+EndGlobal
